@@ -18,7 +18,7 @@ Profundo conocimiento en bases de datos SQL Server y MySQL para el manejo eficie
 Competencia en el uso de herramientas de control de versiones como Git y TFS.
 Experiencia en la implementación de metodologías ágiles, particularmente Scrum, para la gestión eficaz de proyectos.
 
-<!--> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead-->
+
 
 ## Skill:
 Autodidacta | .NetCore | C# | Angular | SqlServer | MySQL | Back End | Azure | Scrum | Git |TFS
